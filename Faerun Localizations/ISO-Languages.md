@@ -1,4 +1,4 @@
-# Faerun ISO Language Codes
+#  Faerûn ISO Language Codes
 
 | ISO Code | Language    | Script    | Type                                    | Typical Speakers                                               |
 | -------- | ----------- | --------- | --------------------------------------- | -------------------------------------------------------------- |
